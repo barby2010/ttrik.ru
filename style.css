@@ -1,0 +1,1283 @@
+html {
+    color: #1E4B8E;
+}
+
+body {
+    font-family: "Comfortaa";
+    margin: 0px;
+}
+
+.kont {
+    margin-left: 0px;
+    height: 1000px;
+    margin-top: 120px !important
+}
+.kat {
+    margin-top: 100px;
+}
+.nov {
+    margin-top: 100px;
+}
+.lala {
+    margin-top: 470px;
+}
+.one {
+    margin-top: 1000px;
+}
+section.big {
+    margin-left: 0px;
+}
+.posh {
+    position: relative;
+    bottom: 1000px
+}
+.usl {
+    font-family: "Jost";
+    font-weight: 100;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    margin-bottom: 0px;
+}
+.big h3 {
+    padding: 7px;
+    margin-top: 10px;
+}
+
+.big h2 {
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #9BBAE9;
+    margin-bottom: 3px;
+
+    padding: 5px
+}
+.big {
+    margin: 0px;
+}
+/* .aaa {
+    position: relative;
+    top:25px
+} */
+
+.kat.search {
+    position: relative;
+    top: 2px
+}
+
+.rekv {
+    line-height: 0.3em;
+}
+.pl {
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #9BBAE9;
+    margin-bottom: 3px;
+    margin-right: 0px;
+    padding-left: 7px;
+}
+.kont {
+    margin-left: 0px;
+    margin-top: 500px;
+    position: relative;
+    
+
+}
+.kont img {
+    width: 300px;
+    margin-left: 100px;
+}
+.opr {
+    position: relative;
+    bottom: 20px
+}
+.ss h4 {
+    font-size: 320px;
+    color: #9BBAE9;
+}
+.ood {
+    display: flex;
+    font-family: 'The Nautigal';
+    position: relative;
+    left: 43%;
+    bottom: 550px;
+    font-size: 1000px;
+    text-align: center;
+    z-index: -1;
+}
+h4.ood {
+    margin-bottom: 0px;
+}
+.posh {
+    position: relative;
+    top: 45px;
+    right: 10%;
+}
+.dva {
+    margin:0px;
+    position: relative;
+    bottom: 650px;
+    left: 38%;
+    font-family: 'The Nautigal'
+    
+}
+.rr {
+    position: relative;
+    bottom: 900px;
+    left: 40%;
+    font-size: 25px;
+}
+
+.pere {
+    height: 500px;
+}
+
+.kat {
+    position: relative;
+    top: 1px
+}
+.kat p {
+    position: relative;
+    bottom: 70px
+}
+/* .search {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-color: #818385;
+    border-radius: 60px;
+    transition: 0.5s;
+}
+.search .icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 60px;
+    width: 60px;
+    background-color: #818385;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    cursor: pointer;
+}
+.search .icon::before {
+    position: absolute;
+    content: ' ';
+    width: 15px;
+    height: 15px;
+    border: 3px solid;
+    border-radius: 50%;
+    transform: translate(-2px, -2px);
+
+}
+.search .icon::after {
+    position: absolute;
+    content: ' ';
+    width: 3px;
+    height: 12px;
+    transform: translate(8px, 8px) rotate(-45deg);
+    background-color: #1E4B8E;
+}
+.serch.active {
+    width: 360px;
+} */
+
+header {
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    height: 180px;
+}
+main {
+    margin-left: 10px;
+    position: relative;
+    bottom: 100px
+
+    
+}
+.m1 {
+    height: 120%;
+    margin-left: 0px;
+}
+footer {
+    margin: 30px
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+    position: relative;
+    padding-top: 50px;
+    width: 200px;
+
+}
+header {
+    background-color: #1E4B8E;
+}
+.pochta a {    
+    color: #9BBAE9;
+    display: flex;
+
+    position: relative;
+    top: 10px;
+    left: 50%;
+    text-decoration: none;
+
+    bottom: 1530px;
+    width: 200px;
+    padding: 0px 
+}
+.pochta {
+    position: relative;
+    bottom: 100px
+} */
+div.pochta {
+    width: 400px;
+}
+.ss form {
+    position: relative;
+    bottom: 70px
+
+}
+.nov form {
+    position: relative;
+    top: 20px
+
+}
+.usl {
+    font-size: 80px;
+    font-family: "Jost";
+    font-weight: 500;
+    margin-top: 0px;
+    /* position: relative;
+    bottom:400px; */
+    text-align: center;
+}
+.sss h4 {
+    text-align: center !important
+}
+.kont form {
+    position: relative;
+    top: 20px;
+    margin-left: 30px;
+
+}
+.onee {
+    position: relative;
+    margin-left: 40px;
+}
+.onee h3 {
+    font-size: 100px;
+}
+.twoo {
+    position: relative;
+    margin-left: 40px;
+}
+.twoo h3 {
+    font-size: 100px;
+}
+.threee {
+    position: relative;
+    margin-left: 40px;
+
+}
+.threee h3 {
+    font-size: 100px;
+}
+.foyrr {
+    position: relative;
+    margin-left: 40px;
+
+}
+.foyrr h3 {
+    font-size: 100px;
+}
+.sss h2 {
+    display: flex;
+    position: relative;
+    bottom: 40px;
+    left: 40%;
+    text-align: center;
+
+}
+.pere {
+    position: relative;
+    bottom: 70px
+}
+.perv {
+    font-size: 30px;
+    width: 900;
+    position: absolute;
+    bottom: 125px;
+    left: 34%;
+    font-size: 30px;
+}
+.vtor {
+    font-size: 30px;
+    width: 900;
+    position: absolute;
+    left: 34%;
+    bottom: 2px;
+    
+}
+.big {
+    margin-top: 30px;
+}
+
+div .tel {
+    width: 10px;
+}
+.lg {
+    width: 60px;
+    display: flex;
+    position: relative;
+    left: 32%;
+    top: 20px
+}
+.sss {
+    margin-top: 150px;
+}
+.tel a {
+    display: flex;
+    position: relative;
+    bottom: 120px;
+    left: 35%;
+    text-decoration: none;
+    color: #9BBAE9;
+    /* bottom: 1130px; */
+    width: 200px;
+
+}
+.aa {
+    position: relative;
+    bottom: 400px
+}
+
+
+header a {
+
+    font-size: 17px;
+    text-decoration: none;
+    color: white;
+    margin: 7px;
+    margin-left: 70px;
+    position: relative;
+    bottom: 123px;
+    left: 15%
+}
+header img {
+    width: 130px;
+    position: relative;
+    bottom: 215px;
+    left: 85%
+}
+.nemnogo {
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #9BBAE9;
+    margin-bottom: 3px;
+    margin-right: 0px;
+    padding-left: 7px;
+}
+.why {
+    font-family: "Jost";
+    font-weight: 500;
+    font-size: 80px;
+    text-align: center;
+    margin: 0px;
+
+}
+.one {
+    margin: 10px
+}
+.big h4 {
+    font-family: "Jost";
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: 0px
+}
+.big h5 {
+    margin-top: 0px;
+    font-size: 15px;
+}
+.big h3 {
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #9BBAE9;
+    margin-bottom: 3px;
+    margin-top: 5px
+}
+.big {
+    line-height: 1;
+}
+
+.one h4 {
+    font-size: 200px;
+    color:#9BBAE9;
+    font-family: "Corinthia";
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    padding: 50px;
+    margin-left: 100px
+}
+.one h5 {
+    padding-right: 50px;
+    display: flex;
+    position: relative;
+    bottom: 200px;
+    margin-left: 80px;
+    width: 400px;
+}
+.tamb {
+    margin-bottom: 30px
+}
+.lala {
+    position: relative;
+    top: 5px
+}
+.why h4 {
+    font-size: 500px;
+    margin-bottom: 0px;
+}
+
+.form img {
+    width: 300px;
+    margin: 5%
+}
+.zaiav {
+    text-align: center;
+    font-size: 30px;
+}
+.reset {
+    width: 100px;
+    color: #1E4B8E;
+    background-color: white;
+}
+.reset:focus {
+    background-color: #E5EAF2;
+}
+.submit {
+    width: 130px;
+    background-color: #1E4B8E;
+}
+.file {
+    width: 250px;
+    color: #1E4B8E;
+    background-color: white;
+}
+
+input {
+    width: 500px;
+    height: 50px;
+}
+button {
+    position: relative;
+    left: 15%
+}
+.lg {
+    position: relative;
+    bottom: 245px
+}
+.aa {
+    position: relative;
+    bottom: 30px
+}
+.form p {
+    font-weight: 1000;
+}
+input {
+    background-color: #9BBAE9;
+    font-family: "Comfortaa";
+    color: white;
+    border: none
+}
+::placeholder {
+    color: white
+}
+
+.ul {
+    position: relative;
+    bottom: 1195px;
+    left: 75%;
+    background-color: #9BBAE9;
+    padding: 5px;
+    padding-top: 0px;
+    width: 360px;
+}
+.hhh h4 {
+    font-size: 200px;
+    font-family: "Corinthia";
+    color: #9BBAE9;
+    margin: 10px;
+    margin-left: 100px;
+}
+.hhh h5 {
+    font-size: 16px;
+}
+.odin h5 {
+    position: relative;
+    bottom: 150px;
+    margin-left: 20px
+}
+.two h4 {
+    position: relative;
+    left: 60%;
+    bottom: 295px
+}
+.two h5 {
+    position: relative;
+    left: 63%;
+    bottom: 445px;
+}
+.three h4 {
+    position: relative;
+    bottom: 400px;
+    margin-left: 60px
+}
+.three h5 {
+    position: relative;
+    left: 3%;
+    bottom: 550px
+}
+.four h4 {
+    position: relative;
+    bottom: 700px;
+    left: 60%
+}
+.four h5 {
+    position: relative;
+    bottom: 850px;
+    left: 58%
+}
+
+.two {
+    width: 500px;
+    margin-left: 40%
+}
+.four {
+    width: 500px;
+    margin-left: 40%
+}
+.odin {
+    margin-left: 100px;
+}
+.three {
+    margin-left: 100px;
+}
+.b1 {
+    height: 100%;
+}
+.chisl {
+    position: relative;
+    bottom: 100px 
+}
+.pochta {
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    position: relative;
+    bottom: 50px;
+}
+
+div.tel {
+
+    font-size: 20px;
+    color: white;
+    font-weight:600;
+    position: relative;
+    left: 20%
+}
+
+.big h2 {
+    font-size: 40px;
+    font-family: "Jost";
+    margin-top: 0px;
+}
+.m1 img {
+    width: 1400px;
+    position: absolute;
+    top: 60px
+
+}
+.one p {
+    line-height: 2;
+    font-weight: 500;
+}
+.m1 footer {
+    margin-top: 200px;
+}
+.nov h2 {
+    font-size: 60px;
+    font-family: "Jost";
+    text-align: center;
+}
+.photo {
+    text-align: center;
+}
+.photo h3 {
+    font-size: 30px;
+    position: relative;
+
+    background-color: #9BBAE9;
+}
+.photo ul {
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    bottom: 30px;
+    background-color: #9BBAE9;
+}
+.lala p{
+    text-indent: 30px;
+}
+.m1 span {
+    font-weight: 700;
+    font-size: 23px;
+}
+.rjyn {
+    text-decoration: none;
+}
+.podv {
+    position: relative;
+    bottom: 50px;
+    left: 10%;
+}
+.chisl h5 {
+    font-family: "Jost";
+}
+footer a {
+    text-decoration: none;
+    color: #9BBAE9;
+    position: relative;
+    /* bottom: 1130px; */
+    left: 20%;
+    vertical-align:text-top;
+    margin-top: 10px;
+}
+input[type="text"] {
+    width: 400px;
+    border-radius: 15px;
+
+    background-position: 10px 10px;
+    padding: 20px 20px 15px 20px;
+}
+/* input[type="search"]:focus{
+    width: 400px;
+
+} */
+.search {
+    position: relative;
+    bottom: 80px;
+    margin-left: 20px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.kont {
+    margin: 0px;
+}
+.kont h4 {
+    margin-left: 10px;
+}
+.kont h5 {
+    margin-left: 10px;
+}
+.kont a {
+    margin-left: 10px;
+}
+.kont h2{
+    margin-left: 10px;
+}
+.hhh h3 {
+    font-family: "The Nautigal";
+    color:#9BBAE9;
+    font-size:300px;
+    margin: 0px;
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+}
+.hhh h5 {
+    width: 350px;
+}
+div.onee h3 {
+    margin-left: 7%;
+}
+div.onee h5 {
+    position: relative;
+    bottom: 300px
+}
+div.twoo h3 {
+    position: relative;
+    left: 65%;
+    bottom: 532px
+}
+div.twoo h5 {
+    position: relative;
+    bottom: 730px;
+    left: 62%;
+}
+div.threee h3 {
+    position: relative;
+    bottom: 600px;
+    margin-left: 7%;
+}
+div.threee h5 {
+    position: relative;
+    bottom: 800px
+}
+div.foyrr h3 {
+    position: relative;
+    left: 65%;
+    bottom: 1030px
+}
+div.foyrr h5 {
+    position: relative;
+    bottom: 1232px;
+    left: 62%;
+}
+.poo {
+    position: relative;
+    bottom: 25px;
+    left: 71%
+}
+div.poo{
+    width: 0px;
+}
+section.ser a {
+    width: 20px;
+    height: 20px;
+    color: #1E4B8E;
+
+}
+.modal {
+    display: none;
+    width: 100%;
+    top: 0;
+}
+.modal_content {
+    text-align: center;
+    margin: 0px;
+}
+.zaiavv {
+    position: relative;
+    top: 50px
+}
+.krest {
+    width: 600px;
+    position: relative;
+    left: 20%;
+    top: 50px;
+    font-size: 30px;
+}
+.krest:hover{
+    color: #ED4848
+}
+.big h6 {
+    font-size: 30px;
+    text-decoration:underline;
+    text-align: center;
+    margin: 5px;
+}
+.big h6:hover{
+    color: #9BBAE9;
+    font-size: 35px;
+}
+.vos {
+    position: relative;
+    z-index: 1;
+}
+.opr h2 {
+    margin-left: 0px;
+}
+.pol h2 {
+    margin-left: 0px;
+}
+.vos {
+    position: relative;
+    bottom:1000000px;
+    right: 70px;
+}
+section.ser {
+    margin: 0px;
+}
+.ff {
+    height: 200px;
+}
+div#specifications {
+    height: 50px;
+    z-index: 2;
+    position: relative;
+    top: 100px
+}
+.karti {
+    margin-top: 30px;
+}
+div.kar {
+    position: relative;
+    top: 30px
+}
+#specifications a {
+    color: #551A8B;
+    display: flex;
+    margin-bottom: 20px;
+}
+.fo {
+    width: 100px;
+    margin-left: 180px;
+
+}
+.fo:hover {
+    width: 550px;
+    margin: 0px
+}
+#specifications {
+    margin-bottom: 100px;
+}
+#specifications .cer1 {
+    width: 100px;
+    margin-left: 180px;
+}
+#specifications .cer1:hover {
+    width: 550px;
+    margin: 0px
+}
+#specifications .cer2 {
+    width: 100px;
+    margin-left: 340px;
+    margin-right: 150px;
+
+}
+#specifications .cer2:hover {
+    width: 550px;
+    margin: 0px
+}
+
+.swiper {
+    width: 1000px;
+    height: 100%;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper-slide img {
+    width: 1000px;
+    height: 100%;
+    object-fit: cover;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: 140px !important;
+    left: auto;
+}
+.swiper-button-prev, .swiper-rtl .swiper-button-next {
+    left: 140px !important;
+    right: auto;
+}
+.tt1 {
+    width: 250px;
+    margin-left: 40px;
+}
+.kat p {
+    margin-left: 20px;
+}
+.kat h2 {
+    margin: 2%;
+    font-size: 20px;
+    text-decoration: none;
+    color:#1E4B8E
+}
+.kor {
+    position: relative;
+    right: 25%;
+}
+.kata h3 {
+    text-align: left;
+    width: 600px;
+    position: relative;
+    left: 60%;
+    bottom: 600px
+}
+.kata h2 {
+    text-align: left;
+    width: 600px;
+    position: relative;
+    left: 60%;
+    bottom: 600px
+}
+.sss h4 {
+    margin: 0px;
+    width: 100px;
+}
+.sss h3 {
+    margin: 0px;
+    width: 500px;
+}
+.tt2 {
+    width: 250px;
+    margin-left: 40px;
+}
+.kat h2 {
+    width: 300px;
+}
+.d1 {
+    display: flex;
+    position: relative;
+    bottom: 5px;
+}
+.d1 h2 {
+    margin-top: 27px;
+    margin-left: 30px;
+}
+.tt3 {
+    width: 250px;
+    margin-left: 40px;
+}
+.mk11 {
+    position: relative;
+    bottom: 430px;
+    left: 25%;
+}
+.mk11 h2 {
+    margin-top: 27px;
+}
+.ttd h2 {
+    margin-top: 27px;
+}
+.ttd2 {
+    width: 250px;
+    margin-left: 40px;
+
+}
+.tt4 {
+    width: 250px;
+    margin-left: 40px;
+}
+.msum {
+    position: relative;
+    bottom: 880px;
+    left: 50%;
+}
+.ttd {
+    position: relative;
+    bottom: 410px;
+    left: 25%;
+}
+.cif {
+    position: relative;
+    left: 40%;
+    font-family: "The Nautigal";
+    font-size: 100px !important;
+    margin-top: 100px;
+}
+.textx {
+    position: relative;
+    left: 37%;
+    bottom: 200px
+}
+.textx1 {
+    position: relative;
+    bottom:15px;
+    left: 5%;
+
+}
+.textx5 {
+    position: relative;
+    bottom: 65px;
+    left: 50%;
+}
+.textx2 {
+    position: relative;
+    bottom: 230px;
+    left: 50%
+}
+.textx4 {
+    position: relative;
+    bottom: 70px;
+    left: 5%
+}
+.textx6 {
+    position: relative;
+    bottom: 70px;
+    left: 5%
+}
+
+/* .box1 {
+    position: relative;
+    bottom: 500px;
+}
+.box2 {
+    position: relative;
+    bottom: 150px
+}
+.box3 {
+    position: relative;
+    bottom: 250px
+}
+.box4 {
+    position: relative;
+    bottom: 300px
+}
+.box5 {
+    position: relative;
+    bottom: 350px
+}
+.box6 {
+    position: relative;
+    bottom: 400px
+} */
+.buttonn {
+    position: relative;
+    bottom: 50px;
+    left: 25%;
+}
+.buttonn button {
+    padding: 15px;
+    margin-right: 30px;
+    border-radius: 100px;
+    background-color: #9BBAE9;
+    border: 0px;
+    color: #fff;
+    font-family: "Comfortaa";
+}
+.tt6 {
+    width: 250px;
+    margin-left: 40px;
+}
+.sumw {
+    position: relative;
+    bottom: 859px;
+    left: 50%;
+}
+.tt7 {
+    width: 250px;
+    margin-left: 20px;
+}
+.termo1 {
+    position: relative;
+    bottom: 1308px;
+    left: 75%
+}
+/* article.termo1 {
+    width: 200px;
+}
+article.msum {
+    width: 200px;
+} */
+.sss h3 {
+    font-size: 15px;
+}
+.spann {
+    font-weight:bolder;
+    font-size: 20px;
+}
+.tt8 {
+    width: 250px;
+    margin-left: 40px;
+}
+.long2 {
+    position: relative;
+    bottom: 1290px;
+    left: 75%
+}
+.tt9 {
+    width: 250px;
+    margin-left: 40px;
+}
+.swit {
+    position: relative;
+    bottom: 1200px
+}
+.ell {
+    position: relative;
+    left: 60%;
+    bottom: 600px
+}
+.el {
+    position: relative;
+    bottom: 1200px;
+    margin-left: 100px;
+}
+.tt10 {
+    width: 250px;
+    margin-left: 40px;
+}
+.maika2 {
+    position: relative;
+    right: 75%;
+    top: 100px
+}
+.bch {
+    position: relative;
+    top: 100px;
+    right: 69%;
+}
+.bchh {
+    position: relative;
+    bottom: 1675px;
+    left: 30%
+}
+.c5 {
+    position: relative;
+    left: 60%;
+    bottom: 600px
+
+}
+.tt11 {
+    width: 250px;
+    margin-left: 40px;
+}
+.switshot {
+    position: relative;
+    left: 19%;
+    bottom: 430px
+}
+.tt12 {
+    width: 250px;
+}
+.tt13 {
+    width: 250px;
+}
+.tsh2 {
+    position: relative;
+    bottom: 2164px;
+    left: 53%
+
+}
+.ss {
+    position: relative;
+
+}
+.price {
+    position: relative;
+    top: 20px;
+    left: 17%
+}
+.sww {
+    position: relative;
+
+}
+.ss {
+    position: relative;
+    left: 28%;
+    bottom: 1676px
+}
+.tt14 {
+    width: 250px;
+}
+.tsh1 {
+    position: relative;
+    bottom: 853px;
+    left: 49%
+}
+.tt15 {
+    width: 250px;
+}
+.tsh11 {
+    position: relative;
+    bottom: 1278px;
+    left: 75%
+}
+.tt16 {
+    width: 250px;
+}
+
+.longg {
+    position: relative;
+    right: 5%;
+    bottom: 1203px
+}
+.tt17 {
+    width: 250px;
+}
+.rp2 {
+    position: relative;
+    bottom: 2593px;
+    left: 78%
+}
+.tt18 {
+    width: 250px;
+}
+.rp1 {
+    position: relative;
+    bottom: 1627px;
+    left: 22%
+}
+.pod1 {
+    position: relative;
+    bottom: 2050px;
+    left: 49%
+}
+.tt19 {
+    width: 250px;
+}
+.pod {
+    position: relative;
+    bottom: 2475px;
+    left: 75%
+}
+.sogl {
+    margin-top: 35px;
+    position: relative;
+    left: 15%
+}
+.iarl {
+    position: relative;
+    bottom: 220px;
+    left: 58%
+}
+.blblb {
+    padding-bottom: 20px;
+}
+main.kat {
+    height: 1700px !important;
+}
+div.el {
+    height: 500px !important;
+}
+.html {
+    height: 1500px !important;
+}
+.imgo {
+    width: 450px;
+    margin-left: 30px;
+}
+.imgt {
+    width: 450px;
+}
+.imgth {
+    width: 450px;
+}
+.kart {
+    position: relative;
+    bottom: 1550px
+}
+.search img {
+    position: absolute;
+}
+#result {
+    display: none
+}
+.search button {
+    position: relative;
+    top: 5px;
+    background-color: #376ec2 !important;
+    border: none;
+}
+section.podv {
+    width: 1000px;
+}
+div.button {
+    width: 1000px;
+}
